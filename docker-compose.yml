@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+  gitpitch:
+    image: knsit/gitpitch:latest
+    environment:
+      - "GP_GITHUB_ACCESS_TOKEN=4ee3bae8d36eab16a7331f31f754aa169913e8d0"
+      - "GP_GITHUB_AS_DEFAULT=true"
+    ports:
+      - 9000:9000
