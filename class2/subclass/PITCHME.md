@@ -1,8 +1,8 @@
-# Let's Get **Started CLASS 2**
+# Let's Get **Started SUBCLASS**
 
 ---
 
-### Add Some Slide Candy CLASS 2
+### Add Some Slide Candy SUBCLASS
 
 ![IMAGE](assets/img/presentation.png)
 
